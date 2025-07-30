@@ -6,7 +6,7 @@ This project demonstrates the use of a Decision Tree Classifier to predict the q
 
 ## 📊 Dataset
 
-- **Source:** UCI Machine Learning Repository (Wine Quality - Red)
+- **Source:** [Kaggle - Red Wine Quality Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 - **Features:** Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulfur Dioxide, Total Sulfur Dioxide, Density, pH, Sulphates, Alcohol
 - **Target:** Wine Quality (Binary Classification: Good (≥7), Bad (<7))
 
