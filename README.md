@@ -47,7 +47,7 @@ This project demonstrates the use of a Decision Tree Classifier to predict the q
 B.E. Computer Science and Engineering  
 KCG College of Technology  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-imthiaz-i-7a308b301/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/syedimthiaz/)  
 🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7353808012358180865/)
 
 ---
